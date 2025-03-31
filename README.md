@@ -79,6 +79,12 @@ Before you begin, ensure you have the following tools installed on your machine:
 
    ```bash
    php artisan migrate
+   ```   
+   
+3. Seed the database:
+
+   ```bash
+   php artisan db:seed
    ```
 
 ## Running
